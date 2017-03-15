@@ -14,7 +14,7 @@ We propose to install a small and inexpensive wireless thermometer system that w
 
 The system will have configurable temperature limits, allowed times for calls (for example M-F, 8am-5pm), and the phone call repetition rate (for example every 4 hours until temperature is back in range).  Graphs of current and historical temperature data will be available for viewing through a web page to serve as a tool for the maintenance department in managing and troubleshooting the heating system at Lutkin Hall.
 
-![Lutkin](rpi-piano.jpg)
+![Lutkin](rpi-piano.JPG)
 
 Here is an example phone message:
 “Hello, I’m calling from Lutkin Hall located at 700 University Place.  The temperature in the piano room is currently 62 degrees and has been below 72 degrees for 8 hours.  Low temperature may damage sensitive musical instruments located here.  Please attend to this urgent matter as soon as possible”.
